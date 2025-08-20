@@ -19,8 +19,8 @@ const WhatSkilline = () => {
         className="flex flex-col md:flex-row justify-center space-y-5 md:space-y-0 md:space-x-6 lg:space-x-10 mt-7"
       >
         <div className="relative md:w-5/12">
-          <img className="rounded-2xl" src="/img/Rectangle 19.png" alt="" />
-          <div className="absolute bg-black bg-opacity-20 bottom-0 left-0 right-0 w-full h-full rounded-2xl">
+          <img className="rounded-2xl" src="/img/Group 22.png" alt="" />
+          <div className="absolute bg-opacity-20 bottom-0 left-0 right-0 w-full h-full rounded-2xl">
             <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
               <h1 className="uppercase text-white font-bold text-center text-sm lg:text-xl mb-3">
                 FOR INSTRUCTORS
@@ -32,8 +32,8 @@ const WhatSkilline = () => {
           </div>
         </div>
         <div className="relative md:w-5/12">
-          <img className="rounded-2xl" src="/img/Rectangle 21.png" alt="" />
-          <div className="absolute bg-black bg-opacity-20 bottom-0 left-0 right-0 w-full h-full rounded-2xl">
+          <img className="rounded-2xl" src="/img/Group 23.png" alt="" />
+          <div className="absolute bg-opacity-20 bottom-0 left-0 right-0 w-full h-full rounded-2xl">
             <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
               <h1 className="uppercase text-white font-bold text-center text-sm lg:text-xl mb-3">
                 FOR STUDENTS
