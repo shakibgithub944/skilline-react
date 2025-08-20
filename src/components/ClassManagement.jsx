@@ -4,7 +4,7 @@ const ClassManagement = () => {
   return (
     <div className="flex flex-col md:flex-row items-center mt-12">
       <div data-aos="fade-right" className="md:w-5/12">
-        <h1 className="text-darken font-semibold text-3xl leading-tight lg:pr-32">
+        <h1 className="text-darken font-semibold text-3xl leading-10 lg:pr-32">
           <span className="text-[#F48C06]">Class Management</span> Tools for
           Educators
         </h1>

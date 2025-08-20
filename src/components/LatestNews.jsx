@@ -4,10 +4,10 @@ const LatestNews = () => {
   return (
     <div>
       <div data-aos="zoom-in" className="mt-16 text-center">
-        <h1 className="text-darken text-2xl font-semibold">
+        <h1 className="text-darken text-3xl font-semibold">
           Latest News and Resources
         </h1>
-        <p className="text-gray-500 my-5">
+        <p className="text-[#696984] my-5">
           See the developments that have occurred to Skillines in the world
         </p>
       </div>
@@ -20,11 +20,11 @@ const LatestNews = () => {
           <span className="bg-yellow-300 text-darken font-semibold px-4 py-px text-sm rounded-full">
             NEWS
           </span>
-          <h1 className="text-gray-800 font-semibold my-3 text-xl">
+          <h1 className="text-[#252641] font-semibold my-2 text-xl leading-10">
             Class adds $30 million to its balance sheet for a Zoom-friendly
             edtech solution
           </h1>
-          <p className="text-gray-500 mb-3">
+          <p className="text-[#696984] mb-3 leading-7">
             Class, launched less than a year ago by Blackboard co-founder
             Michael Chasen, integrates exclusively...
           </p>
@@ -46,12 +46,13 @@ const LatestNews = () => {
               </div>
             </div>
             <div className="w-8/12">
-              <h1 className="text-gray-800 text-sm sm:text-lg font-semibold">
+              <h1 className="text-[#252641] text-sm sm:text-lg font-semibold">
                 Class Technologies Inc. Closes $30 Million Series A Financing to
                 Meet High Demand
               </h1>
-              <p className="text-gray-500 my-2 sm:my-4 text-xs sm:text-md">
-                Class Technologies Inc., the company that created Class,...
+              <p className="text-[#696984] my-2 sm:my-4 text-sm sm:text-md leading-6">
+                Class Technologies Inc., the company that the company that
+                created Class,...
               </p>
             </div>
           </div>
@@ -65,11 +66,11 @@ const LatestNews = () => {
               </div>
             </div>
             <div className="w-8/12">
-              <h1 className="text-gray-800 text-sm sm:text-lg font-semibold">
+              <h1 className="text-[#252641] text-sm sm:text-lg font-semibold">
                 Zoom’s earliest investors are betting millions on a better Zoom
                 for schools
               </h1>
-              <p className="text-gray-500 my-2 sm:my-4 text-xs sm:text-md">
+              <p className="text-[#696984] my-2 sm:my-4 text-sm sm:text-md leading-6">
                 Zoom was never created to be a consumer product. Nonetheless,
                 the...
               </p>
@@ -85,11 +86,11 @@ const LatestNews = () => {
               </div>
             </div>
             <div className="w-8/12">
-              <h1 className="text-gray-800 text-sm sm:text-lg font-semibold">
+              <h1 className="text-[#252641] text-sm sm:text-lg font-semibold">
                 Former Blackboard CEO Raises $16M to Bring LMS Features to Zoom
                 Classrooms
               </h1>
-              <p className="text-gray-500 my-2 sm:my-4 text-xs sm:text-md">
+              <p className="text-[#696984] my-2 sm:my-4 text-sm sm:text-md leading-6">
                 This year, investors have reaped big financial returns from
                 betting on Zoom...
               </p>

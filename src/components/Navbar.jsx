@@ -11,7 +11,7 @@ const Navbar = () => {
           <div className="relative md:mt-8">
             <a
               href="#"
-              className="text-lg relative z-10 font-bold tracking-widest text-gray-900 rounded-lg focus:outline-none focus:shadow-outline"
+              className="text-lg relative z-10 font-bold tracking-widest text-[#252641] rounded-lg focus:outline-none focus:shadow-outline"
             >
               Skilline
             </a>
@@ -52,40 +52,40 @@ const Navbar = () => {
         <div
           className={`${
             open ? "flex" : "hidden"
-          } md:flex flex-col md:flex-row md:items-center md:justify-end w-full md:w-auto`}
+          } md:flex flex-col md:flex-row md:items-center md:justify-end w-full md:w-auto text-[#252641]`}
         >
           <a
-            className="px-4 py-2 mt-2 text-sm bg-transparent rounded-lg md:mt-8 md:ml-4 hover:text-gray-900 focus:outline-none focus:shadow-outline"
+            className="px-4 py-2 mt-2 text-[16px] bg-transparent rounded-lg md:mt-8 md:ml-4 text-[#252641] focus:outline-none focus:shadow-outline"
             href="#"
           >
             Home
           </a>
           <a
-            className="px-4 py-2 mt-2 text-sm bg-transparent rounded-lg md:mt-8 md:ml-4 hover:text-gray-900 focus:outline-none focus:shadow-outline"
+            className="px-4 py-2 mt-2 text-[16px] bg-transparent rounded-lg md:mt-8 md:ml-4 text-[#252641] focus:outline-none focus:shadow-outline"
             href="#"
           >
             Careers
           </a>
           <a
-            className="px-4 py-2 mt-2 text-sm bg-transparent rounded-lg md:mt-8 md:ml-4 hover:text-gray-900 focus:outline-none focus:shadow-outline"
+            className="px-4 py-2 mt-2 text-[16px] bg-transparent rounded-lg md:mt-8 md:ml-4 text-[#252641] focus:outline-none focus:shadow-outline"
             href="#"
           >
             Blog
           </a>
           <a
-            className="px-4 py-2 mt-2 text-sm bg-transparent rounded-lg md:mt-8 md:ml-4 hover:text-gray-900 focus:outline-none focus:shadow-outline"
+            className="px-4 py-2 mt-2 text-[16px] bg-transparent rounded-lg md:mt-8 md:ml-4 text-[#252641] focus:outline-none focus:shadow-outline"
             href="#"
           >
             About Us
           </a>
           <a
-            className="px-10 py-3 mt-2 text-sm text-center bg-white text-gray-800 rounded-full md:mt-8 md:ml-4"
+            className="px-10 py-3 mt-2 text-[16px] text-center bg-white text-[#252641] rounded-full md:mt-8 md:ml-4"
             href="#"
           >
             Login
           </a>
           <a
-            className="px-10 py-3 mt-2 text-sm text-center bg-[#F48C06] text-white rounded-full md:mt-8 md:ml-4"
+            className="px-10 py-3 mt-2 text-[16px] text-center bg-[#F48C06] text-white rounded-full md:mt-8 md:ml-4"
             href="#"
           >
             Sign Up

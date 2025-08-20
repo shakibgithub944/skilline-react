@@ -5,29 +5,29 @@ const Testimonial = () => {
     <div>
       <div className="mt-24 flex flex-col-reverse md:flex-row items-start md:space-x-10">
         <div data-aos="zoom-in-right" className="md:w-5/12">
-          <div className="flex items-center space-x-20 mb-5">
-            <span className="border border-gray-300 w-14 absolute"></span>
-            <h1 className="text-gray-400 tracking-widest text-sm">
+          <div className="flex items-center space-x-5 mb-5">
+            <span className="border border-gray-300 w-14"></span>
+            <h1 className="text-[#696984] tracking-widest text-sm">
               TESTIMONIAL
             </h1>
           </div>
-          <h1 className="font-semibold text-darken text-2xl lg:pr-40">
+          <h1 className="font-semibold text-darken text-3xl lg:pr-40">
             What They Say?
           </h1>
-          <p className="text-gray-500 my-5 lg:pr-36">
+          <p className="text-[#696984] my-5 lg:pr-36">
             Skilline has got more than 100k positive ratings from our users
             around the world.
           </p>
-          <p className="text-gray-500 my-5 lg:pr-36">
+          <p className="text-[#696984] my-5 lg:pr-36">
             Some of the students and teachers were greatly helped by the
             Skilline.
           </p>
-          <p className="text-gray-500 my-5 lg:pr-36">
+          <p className="text-[#696984] my-5 lg:pr-36">
             Are you too? Please give your assessment
           </p>
-          <button className="flex items-center space-x-3 pl-3 border-b border-l border-t border-[#F48C06] text-[#F48C06] font-medium my-4 focus:outline-none transform transition hover:scale-110 duration-300 ease-in-out rounded-full">
+          <button className="flex items-center space-x-3 pl-4 border-b border-l border-t border-[#F48C06] text-[#F48C06] text-sm font-medium my-4 focus:outline-none transform transition hover:scale-110 duration-300 ease-in-out rounded-full">
             <span>Write your assessment</span>
-            <div className="border border-[#F48C06] h-14 w-14 rounded-full flex items-center justify-center">
+            <div className="border border-[#F48C06] h-12 w-12 rounded-full flex items-center justify-center">
               <svg
                 className="w-5 h-5"
                 viewBox="0 0 26 16"

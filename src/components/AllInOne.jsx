@@ -7,7 +7,7 @@ const AllInOne = () => {
         <h1 className="font-bold text-darken my-3 text-2xl">
           All-In-One <span className="text-[#F48C06]">Cloud Software.</span>
         </h1>
-        <p className="leading-relaxed text-gray-500">
+        <p className="leading-relaxed text-[#696984]">
           Skilline is one powerful online software suite that combines all the
           tools needed to run a successful school or office.
         </p>
@@ -36,7 +36,7 @@ const AllInOne = () => {
           <h1 className="font-medium text-xl mb-3 lg:px-14 text-darken">
             Online Billing, Invoicing, & Contracts
           </h1>
-          <p className="px-4 text-gray-500">
+          <p className="px-4 text-[#696984]">
             Simple and secure control of your organization’s financial and legal
             transactions. Send customized invoices and contracts
           </p>
@@ -109,7 +109,7 @@ const AllInOne = () => {
           <h1 className="font-medium text-xl mb-3 lg:px-14 text-darken">
             Easy Scheduling & Attendance Tracking
           </h1>
-          <p className="px-4 text-gray-500">
+          <p className="px-4 text-[#696984]">
             Schedule and reserve classrooms at one campus or multiple campuses.
             Keep detailed records of student attendance
           </p>
@@ -138,7 +138,7 @@ const AllInOne = () => {
           <h1 className="font-medium text-xl mb-3 lg:px-14 text-darken lg:h-14 pt-3">
             Customer Tracking
           </h1>
-          <p className="px-4 text-gray-500">
+          <p className="px-4 text-[#696984]">
             Automate and track emails to individuals or groups. Skilline’s
             built-in system helps organize your organization
           </p>

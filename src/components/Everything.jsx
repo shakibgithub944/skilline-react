@@ -7,7 +7,7 @@ const Everything = () => {
         <div className="bg-[#F48C06] rounded-full absolute w-12 h-12 z-0 -left-4 -top-3 animate-pulse"></div>
         <h1 className="font-semibold text-2xl relative z-50 text-darken lg:pr-10">
           Everything you can do in a physical classroom,
-          <span className="text-[#F48C06]">you can do with Skilline</span>
+          <span className="text-[#F48C06]"> you can do with Skilline</span>
         </h1>
         <p className="py-5 lg:pr-32">
           Skilline’s school management software helps traditional and online

@@ -4,10 +4,10 @@ const WhatSkilline = () => {
   return (
     <div className="mt-28">
       <div data-aos="flip-down" className="text-center max-w-screen-md mx-auto">
-        <h1 className="text-3xl font-bold mb-4">
+        <h1 className="text-3xl font-bold mb-4 text-darken">
           What is<span className="text-[#F48C06]"> Skilline?</span>
         </h1>
-        <p className="text-gray-500">
+        <p className="text-[#696984]">
           Skilline is a platform that allows educators to create online classes
           whereby they can store the course materials online; manage
           assignments, quizzes and exams; monitor due dates; grade results and

@@ -23,19 +23,19 @@ const Footer = () => {
               />
             </svg>
           </div>
-          <span className="border-l border-gray-500 text-sm pl-5 py-2 font-semibold">
+          <span className="border-l border-[#B2B3CF] text-sm pl-5 py-2 font-semibold">
             Virtual Class for Zoom
           </span>
         </div>
         <div className="text-center pb-16 pt-5">
-          <label className="text-gray-300 font-semibold">
+          <label className="text-[#B2B3CF] font-semibold">
             Subscribe to get our Newsletter
           </label>
           <div className="px-5 sm:px-0 flex flex-col sm:flex-row sm:space-x-3 space-y-3 sm:space-y-0 justify-center mt-3">
             <input
               type="email"
               placeholder="Your Email"
-              className="rounded-full py-2 pl-5 bg-transparent border border-gray-400 text-gray-400"
+              className="rounded-full px-13 py-2 pl-5 bg-transparent border border-[#83839A] text-[#83839A]"
             />
             <button
               type="submit"
@@ -49,19 +49,19 @@ const Footer = () => {
             </button>
           </div>
         </div>
-        <div className="flex items-center text-gray-400 text-sm justify-center">
+        <div className="flex items-center text-[#B2B3CF] text-sm justify-center">
           <a href="" className="pr-3">
             Careers
           </a>
-          <a href="" className="border-l border-gray-400 px-3">
+          <a href="" className="border-l border-[#B2B3CF] px-3">
             Privacy
           </a>
-          <a href="" className="border-l border-gray-400 pl-3">
+          <a href="" className="border-l border-[#B2B3CF] pl-3">
             Terms & Conditions
           </a>
         </div>
-        <div className="text-center text-white">
-          <p className="py-3 text-gray-400 text-sm">
+        <div className="text-center text-[#B2B3CF]">
+          <p className="py-3 text-[#B2B3CF] text-sm">
             &copy; 2025 Skilline Technologies Inc.
           </p>
         </div>

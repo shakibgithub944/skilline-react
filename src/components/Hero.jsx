@@ -18,7 +18,7 @@ const Hero = () => {
             data-aos="fade-down"
             data-aos-once="true"
             data-aos-delay="300"
-            className="leading-normal text-2xl mb-8 text-[#464646]"
+            className="leading-normal text-xl mb-8 text-[#464646]"
           >
             Skilline is an interesting platform that will teach you in more an
             interactive way
@@ -29,7 +29,7 @@ const Hero = () => {
             data-aos-delay="700"
             className="w-full md:flex items-center justify-center lg:justify-start md:space-x-5 gap-8"
           >
-            <button className="lg:mx-0 bg-[#F48C06] text-white text-xl font-bold rounded-full py-4 px-9 focus:outline-none transform transition hover:scale-110 duration-300 ease-in-out">
+            <button className="lg:mx-0 bg-[#F48C06] text-white font-semibold rounded-full py-4 px-9 focus:outline-none transform transition hover:scale-110 duration-300 ease-in-out">
               Join for free
             </button>
             <div className="flex items-center justify-center space-x-3 mt-5 md:mt-0 focus:outline-none transform transition hover:scale-110 duration-300 ease-in-out">
