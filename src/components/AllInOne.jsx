@@ -33,7 +33,7 @@ const AllInOne = () => {
               />
             </svg>
           </div>
-          <h1 className="font-medium text-xl mb-3 lg:px-14 text-darken">
+          <h1 className="font-semibold text-xl mb-3 lg:px-14 text-darken">
             Online Billing, Invoicing, & Contracts
           </h1>
           <p className="px-4 text-[#696984]">
@@ -106,7 +106,7 @@ const AllInOne = () => {
               />
             </svg>
           </div>
-          <h1 className="font-medium text-xl mb-3 lg:px-14 text-darken">
+          <h1 className="font-semibold text-xl mb-3 lg:px-14 text-darken">
             Easy Scheduling & Attendance Tracking
           </h1>
           <p className="px-4 text-[#696984]">
@@ -135,7 +135,7 @@ const AllInOne = () => {
               />
             </svg>
           </div>
-          <h1 className="font-medium text-xl mb-3 lg:px-14 text-darken lg:h-14 pt-3">
+          <h1 className="font-semibold text-xl mb-3 lg:px-14 text-darken lg:h-14 pt-3">
             Customer Tracking
           </h1>
           <p className="px-4 text-[#696984]">

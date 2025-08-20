@@ -17,7 +17,7 @@ export default function Home() {
     <div>
       <Navbar />
       <Hero />
-      <div className="container px-4 lg:px-8 mx-auto max-w-screen-xl text-gray-700 overflow-x-hidden">
+      <div className="container px-4 lg:px-8 mx-auto text-gray-700 overflow-x-hidden">
         <Trusted />
         <AllInOne />
         <WhatSkilline />

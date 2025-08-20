@@ -3,7 +3,7 @@ import React from "react";
 const Hero = () => {
   return (
     <div className="bg-cream">
-      <div className="max-w-screen-xl px-8 mx-auto flex flex-col lg:flex-row items-start">
+      <div className="max-w-screen-xl md:h-[632px] px-8 mx-auto flex flex-col lg:flex-row items-start">
         {/* <!--Left Col--> */}
         <div className="flex flex-col w-full lg:w-6/12 justify-center lg:pt-24 items-start text-center lg:text-left mb-5 md:mb-0">
           <h1

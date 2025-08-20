@@ -11,7 +11,7 @@ const Testimonial = () => {
               TESTIMONIAL
             </h1>
           </div>
-          <h1 className="font-semibold text-darken text-3xl lg:pr-40">
+          <h1 className="font-semibold text-darken text-4xl lg:pr-40">
             What They Say?
           </h1>
           <p className="text-[#696984] my-5 lg:pr-36">
